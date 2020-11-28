@@ -42,3 +42,26 @@
 .header__right > li {
   color: rgb(202, 107, 159);
 }
+
+.header__right--navbar-home {
+  color: rgb(202, 107, 159);
+}
+
+.section__hero {
+  background-image: url(./pictures/showcase.jpg);
+  height: 50vh;
+  border-bottom: 3px solid rgb(202, 107, 159);
+}
+
+.section__hero--head {
+  color: white;
+  font-weight: 700;
+  text-align: center; 
+  font-size: 3rem;
+}
+
+.section__hero--para {
+  color: white;
+  font-weight: 500;
+  text-align: center; 
+}
